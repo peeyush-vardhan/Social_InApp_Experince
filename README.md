@@ -17,4 +17,4 @@ to their own apps to build connections with customers.
 ● In-app experience can help to reel in new customers, but also retain app users and turn them into brand advocates.
 ● Build in-app profiles to interact with other members, and strengthen loyalty that only returning users can bring to
 apps. (Customer loyalty and customer retention)
-● User behaviour insights - Content rating, user engagement
+● User behaviour insights - Content rating, user engagement.
